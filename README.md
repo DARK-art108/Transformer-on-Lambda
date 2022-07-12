@@ -1,4 +1,4 @@
 
-# Deploy HuggingFace question answering transformer model on AWS Lambda using container image and provisioned concurrency
+### Deploy HuggingFace question answering transformer model on AWS Lambda using container image and provisioned concurrency
 
-Credits: Ramsri
+Credits: ramsri
